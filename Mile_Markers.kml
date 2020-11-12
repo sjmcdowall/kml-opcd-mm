@@ -28,6 +28,17 @@
 	<SimpleField name="FLR_PLNS" type="string"></SimpleField>
 </Schema>
 <Folder><name>Mile_Markers</name>
+   <Style id="mile_marker_style">
+      <IconStyle>
+        <Icon>
+          <href>https://github.com/sjmcdowall/kml-opcd-mm/raw/main/Mile_Marker.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[name]</text>
+      </BalloonStyle>
+    </Style>
   <Placemark>
 	<name>MM 1 SOUTH</name>
 	<ExtendedData><SchemaData schemaUrl="#Mile_Markers">
