@@ -17,7 +17,8 @@
 const kmlLayers = {
   a: {
     name: "Mile Markers",
-    url: "https://github.com/sjmcdowall/kml-opcd-mm/raw/main/Mile_Markers.kml",
+    url:
+      "https://raw.githubusercontent.com/sjmcdowall/kml-opcd-mm/main/Mile_Markers.kml",
     layer: null,
     map: null,
   },

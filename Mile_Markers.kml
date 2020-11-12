@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<kml xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns="http://earth.google.com/kml/2.1">
 	<Document id="root_doc">
 		<Schema name="Mile_Markers" id="Mile_Markers">
 			<SimpleField name="OBJECTID" type="float"></SimpleField>
@@ -33,9 +33,6 @@
 					<href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
 				</Icon>
 			</IconStyle>
-			<BalloonStyle>
-				<text>$[name]</text>
-			</BalloonStyle>
 		</Style>
 		<Folder>
 			<name>Mile_Markers</name>
