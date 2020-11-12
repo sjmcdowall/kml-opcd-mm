@@ -30,8 +30,7 @@
 		<Style id="mile_marker_style">
 			<IconStyle>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png
-					</href>
+					<href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
 				</Icon>
 			</IconStyle>
 			<BalloonStyle>
