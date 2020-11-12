@@ -41,6 +41,7 @@
     </Style>
   <Placemark>
 	<name>MM 1 SOUTH</name>
+	<styleUrl>#mile_marker_style</styleUrl>
 	<ExtendedData><SchemaData schemaUrl="#Mile_Markers">
 		<SimpleData name="OBJECTID">15</SimpleData>
 		<SimpleData name="OBJECTID_1">15</SimpleData>
